@@ -28,6 +28,9 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
 .body{
     padding: 50px 0px 0px 0px;
     z-index: 0;
